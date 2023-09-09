@@ -1,0 +1,19 @@
+.Header{
+    
+    display: flex;
+    justify-content: space-between;
+    border:1px solid black ;
+}
+.NavItems > ul{
+    display: flex;
+    list-style-type: none;
+    
+}
+
+.NavItems > ul > li{
+    padding: 10px;
+}
+.logo{
+    width: 70px;
+    
+}
